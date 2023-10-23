@@ -1,10 +1,17 @@
 COMO GUIA
 
 EN CONSOLA:
-npm install express --save
-npm install --save mysql2
-npm install cors
-npm i-D nodemon
+
+1)npm install express --save
+
+2)npm install --save mysql2
+
+3)npm install cors
+
+4)npm i-D nodemon
+
+/---------------------------------------------------------/
 
 PARA CORRER:
-npm run dev
+
+1)npm run dev
